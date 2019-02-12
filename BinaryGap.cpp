@@ -1,4 +1,4 @@
-// 1. BinaryGap [Task Score:100%] [Correctness: 100%] [Performance: Not assessed]
+// 1. BinaryGap [Task Score: 100%] [Correctness: 100%] [Performance: Not assessed]
 // Find longest sequence of zeros in binary representation of an integer
 // https://app.codility.com/programmers/lessons/1-iterations/binary_gap/
 #include <vector>
